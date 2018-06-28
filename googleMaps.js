@@ -25,7 +25,7 @@ if ("geolocation" in navigator) {
         marker.addListener('click', function(){
             infowindow.open(map, marker);
         })
-        var places = new google.maps.places.SearchBoxOptions
+        // var places = new google.maps.places.SearchBoxOptions
     });
 } else {
     var para = document.createElement('p');
