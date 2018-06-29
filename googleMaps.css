@@ -3,14 +3,14 @@
     height: 600px;
     margin: auto;
   }
-h1{
-  font-family: 'Galada', cursive;
-  color: 	#ffb4a2;
-  margin:auto;
-}
-body{
-  background-image: url("https://images.unsplash.com/photo-1494548162494-384bba4ab999?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c04bce52ace3d90c8140e0a928a6459a&auto=format&fit=crop&w=1000&q=80");
-  background-size: 100%;
-  background-repeat: no-repeat;
-  
-}
+  h1{
+    font-family: 'Galada', cursive;
+    color:#ffb4a2;
+    margin:auto;
+  }
+  body{
+    background-image: url("https://images.unsplash.com/photo-1494548162494-384bba4ab999?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c04bce52ace3d90c8140e0a928a6459a&auto=format&fit=crop&w=1000&q=80");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+  }  
